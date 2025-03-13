@@ -1,4 +1,4 @@
-# Graphs
+# Graphs 
 
 **This is a project for my studies. Below is the task translated to english with AI**
 

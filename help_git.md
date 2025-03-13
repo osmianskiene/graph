@@ -18,3 +18,11 @@ Commit & Push
 or 
 
 Commit -> Sync Changes
+
+**If VSC hangs**, run from terminal:
+
+~~~bash
+git status
+git add.
+git commit -m "commit name"
+~~~
