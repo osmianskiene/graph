@@ -1,6 +1,6 @@
 0. Create .gitignore file and add ignored files
-1. Create repository on github
-2. Read commands on github and run in project directory in terminal:
+1. Create repository on github, nut no readme.md!
+2. Run commands in project directory in terminal:
 
 ~~~bash
  git init
